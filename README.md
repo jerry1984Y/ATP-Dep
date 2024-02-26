@@ -44,7 +44,7 @@ atp-202.txt: this file contains 202 ATP binding proteins used for model test
 
 ## 4.1 Set up environment for HMM and ProtTrans
 1. Download hh-suite v3.3.0 from https://github.com/soedinglab/hh-suite and compile the source.
-2. Download UniRef30_2022_02 dataset from https://gwdu111.gwdg.de/~compbiol/uniclust/2023_02/ .
+2. Download UniRef30_2023_02 dataset from https://gwdu111.gwdg.de/~compbiol/uniclust/2023_02/ .
 3. Set ProtTrans follow procedure from https://github.com/agemagician/ProtTrans/tree/master.
 
 ## 4.2 Extract features
